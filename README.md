@@ -42,4 +42,6 @@ By Ze (Mark) Song — [作品集 Dashboard](https://marksong0917.github.io/) · 
 
 ## License
 
-MIT © Ze (Mark) Song
+This project was previously released under the MIT License. It is now source-available under the PolyForm Noncommercial License 1.0.0 — free for personal and noncommercial use; commercial use requires a separate license from the author. See [LICENSE](LICENSE).
+
+For a commercial license, contact Ze (Mark) Song via https://github.com/marksong0917.
